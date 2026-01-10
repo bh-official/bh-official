@@ -16,7 +16,7 @@ Aspiring software developer with strong foundations in HTML, CSS, JavaScript, an
 - Notion
 
 ## Projects
-### 1. Simple Website
+ 1. Simple Website
 Description: A basic responsive website using HTML and CSS.  
 Skills used: HTML, CSS  
 Link: https://github.com/yourusername/project-link
