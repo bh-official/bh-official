@@ -1,37 +1,40 @@
-# Bhuvaneswari Babu – Software Development Portfolio
+# Hi, I'm Bhuvaneswari 👋
 
-## About Me
-Aspiring software developer with strong foundations in HTML, CSS, JavaScript, and basic Python and Java. Currently strengthening core skills through hands-on practice and bootcamp learning.
+I'm an aspiring software developer who enjoys building practical, interactive web applications and learning how different parts of software systems work together.
 
-## Technical Skills
-- HTML, CSS, JavaScript
-- Python (basic)
-- Java (basic)
+## 👩‍💻 About Me
 
-## Tools
-- Visual Studio Code
-- PyCharm
-- GitHub
-- CodePen
-- Notion
+- Currently training in Software Development at Tech Educators
+- Actively building projects to strengthen core software development skills, including frontend, backend, databases, APIs, and problem-solving
+- Based in the UK
 
-## Projects
-### 1. Simple Website
-Description: A basic responsive website using HTML and CSS.  
-Skills used: HTML, CSS  
-Link: https://github.com/yourusername/project-link
+## 🧰 Tech Stack
 
-### 2. JavaScript Practice Project
-Description: Small interactive features using JavaScript.  
-Skills used: JavaScript  
-Link: https://github.com/yourusername/project-link
+HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, Supabase  
+Git, GitHub, VS Code, npm, Postman, Ubuntu, Chrome DevTools
 
-### 3. Python Basics Project
-Description: Simple Python scripts demonstrating logic and conditions.  
-Skills used: Python  
-Link: https://github.com/yourusername/project-link
+## 🚀 Featured Projects
 
-## What I’m Currently Learning
-- Strengthening JavaScript concepts
-- Improving code quality and debugging
-- Version control using Git and GitHub
+### 🍪 Cookie Clicker Game
+Interactive incremental game with API integration, local storage, settings panel, and animations.  
+🔗 Live: https://bh-official.github.io/bhuvi-projects/week3/09-cookie-clicker-game/  
+🔗 Code: https://github.com/bh-official/bhuvi-projects/tree/main/week3/09-cookie-clicker-game
+
+### 🖼️ Accessible Image Gallery
+Responsive and accessible JavaScript image gallery with keyboard navigation and ARIA support.  
+🔗 Live: https://bh-official.github.io/bhuvi-projects/week2/12-accessible-image-gallery/  
+🔗 Code: https://github.com/bh-official/bhuvi-projects/tree/main/week2/12-accessible-image-gallery
+
+### 🍅 TomatoTime Website
+Responsive multi-page website built using semantic HTML and CSS.  
+🔗 Live: https://bh-official.github.io/bhuvi-projects/week1/03-new-tomato-time/  
+🔗 Code: https://github.com/bh-official/bhuvi-projects/tree/main/week1/03-new-tomato-time
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: [linkedin.com/in/bhuvaneswari-babu-60b8772b6](https://www.linkedin.com/in/bhuvaneswari-babu-60b8772b6/)
+- 📧 Email: [bhuvaneswaribabu.uk@gmail.com](mailto:bhuvaneswaribabu.uk@gmail.com)
+
+---
+
+Thanks for visiting my GitHub profile 🙂
