@@ -15,6 +15,12 @@ Git, GitHub, VS Code, npm, Postman, Ubuntu, Chrome DevTools
 
 ## 🚀 Featured Projects
 
+### 📖 Full-Stack Guestbook Application
+Full-stack guestbook application with CRUD functionality, likes, validation, and persistent data storage using PostgreSQL and Supabase.  
+🔗 Live (Client): https://full-stack-project-guest-book-client.onrender.com  
+🔗 Live (API): https://full-stack-project-guest-book-server.onrender.com  
+🔗 Code (Monorepo): https://github.com/bh-official/Full-stack-project-guest-book
+
 ### 🍪 Cookie Clicker Game
 Interactive incremental game with API integration, local storage, settings panel, and animations.  
 🔗 Live: https://bh-official.github.io/bhuvi-projects/week3/09-cookie-clicker-game/  
