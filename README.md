@@ -10,8 +10,9 @@ I'm an aspiring software developer who enjoys building practical, interactive we
 
 ## 🧰 Tech Stack
 
-HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL, Supabase  
-Git, GitHub, VS Code, npm, Postman, Ubuntu, Chrome DevTools
+HTML, CSS, JavaScript  
+Node.js, Express.js, PostgreSQL, Supabase  
+Git, GitHub, VS Code, npm, Postman, Ubuntu, Chrome DevTools, Render
 
 ## 🚀 Featured Projects
 
