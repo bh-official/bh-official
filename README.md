@@ -40,7 +40,7 @@ Responsive multi-page website built using semantic HTML and CSS.
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [linkedin.com/in/bhuvaneswari-babu-60b8772b6](https://www.linkedin.com/in/bhuvaneswari-babu-60b8772b6/)
-- 📧 Email: [bhuvaneswaribabu.uk@gmail.com](mailto:bhuvaneswaribabu.uk@gmail.com)
+- 📧 Email: [info.bhuvaneswari@gmail.com](mailto:info.bhuvaneswari@gmail.com)
 
 ---
 
