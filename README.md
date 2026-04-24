@@ -105,7 +105,6 @@ Backend authentication system using JWT, bcrypt, MongoDB, protected routes, and 
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bhuvaneswari-babu-60b8772b6/
-- 🌐 Portfolio: Add your portfolio link here
 - 📧 Email: info.bhuvaneswari@gmail.com
 
 ---
