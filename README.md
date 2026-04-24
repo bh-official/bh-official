@@ -1,47 +1,113 @@
 # Hi, I'm Bhuvaneswari 👋
 
-I'm an aspiring software developer who enjoys building practical, interactive web applications and learning how different parts of software systems work together.
-
-## 👩‍💻 About Me
-
-- Currently training in Software Development at Tech Educators
-- Actively building projects to strengthen core software development skills, including frontend, backend, databases, APIs, and problem-solving
-- Based in the UK
-
-## 🧰 Tech Stack
-
-HTML, CSS, JavaScript  
-Node.js, Express.js, PostgreSQL, Supabase  
-Git, GitHub, VS Code, npm, Postman, Ubuntu, Chrome DevTools, Render
-
-## 🚀 Featured Projects
-
-### 📖 Full-Stack Guestbook Application
-Full-stack guestbook application with CRUD functionality, likes, validation, and persistent data storage using PostgreSQL and Supabase.  
-🔗 Live (Client): https://full-stack-project-guest-book-client.onrender.com  
-🔗 Live (API): https://full-stack-project-guest-book-server.onrender.com  
-🔗 Code (Monorepo): https://github.com/bh-official/Full-stack-project-guest-book
-
-### 🍪 Cookie Clicker Game
-Interactive incremental game with API integration, local storage, settings panel, and animations.  
-🔗 Live: https://bh-official.github.io/bhuvi-projects/week3/09-cookie-clicker-game/  
-🔗 Code: https://github.com/bh-official/bhuvi-projects/tree/main/week3/09-cookie-clicker-game
-
-### 🖼️ Accessible Image Gallery
-Responsive and accessible JavaScript image gallery with keyboard navigation and ARIA support.  
-🔗 Live: https://bh-official.github.io/bhuvi-projects/week2/12-accessible-image-gallery/  
-🔗 Code: https://github.com/bh-official/bhuvi-projects/tree/main/week2/12-accessible-image-gallery
-
-### 🍅 TomatoTime Website
-Responsive multi-page website built using semantic HTML and CSS.  
-🔗 Live: https://bh-official.github.io/bhuvi-projects/week1/03-new-tomato-time/  
-🔗 Code: https://github.com/bh-official/bhuvi-projects/tree/main/week1/03-new-tomato-time
-
-## 📫 Get in Touch
-
-- 💼 LinkedIn: [linkedin.com/in/bhuvaneswari-babu-60b8772b6](https://www.linkedin.com/in/bhuvaneswari-babu-60b8772b6/)
-- 📧 Email: [info.bhuvaneswari@gmail.com](mailto:info.bhuvaneswari@gmail.com)
+I'm an aspiring Full-Stack Software Developer passionate about building practical, scalable, and user-focused web applications. I enjoy turning ideas into real products using modern technologies across frontend, backend, databases, APIs, and AI integrations.
 
 ---
 
-Thanks for visiting my GitHub profile 🙂
+## 👩‍💻 About Me
+
+- Full-Stack Developer skilled in React, Next.js, Node.js, Express, PostgreSQL, and JavaScript
+- Built multiple real-world full-stack applications with authentication, dashboards, CRUD systems, and API integrations
+- Interested in scalable web applications, backend systems, clean UI, and modern development workflows
+- Currently based in the UK
+- Open to Junior Developer / Software Engineer opportunities
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Framer Motion
+
+### Backend
+Node.js, Express.js, REST APIs, Server Actions
+
+### Database
+PostgreSQL, MongoDB, Supabase
+
+### Authentication & Security
+JWT, Clerk, Supabase Auth, bcrypt
+
+### Tools
+Git, GitHub, Docker, Postman, Vercel, Render, VS Code
+
+### AI & Integrations
+LLM APIs, OpenRouter API, File Upload & Parsing, Prompt Engineering
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 CareerCraft – AI Job Application Platform
+AI-powered platform that analyses resume-job matches, generates cover letters, interview prep, and tracks applications.
+
+**Tech:** Next.js, React, PostgreSQL, Clerk, Tailwind CSS, OpenRouter API  
+🔗 Live: https://career-craftt.vercel.app/  
+🔗 Code: https://github.com/bh-official/CareerCraft
+
+---
+
+### 🌍 Meridian – Global Appointments Tracker
+Timezone-aware appointment management system with reminders, secure authentication, filtering, and global scheduling support.
+
+**Tech:** React, Node.js, Express, PostgreSQL, Supabase, Luxon  
+🔗 Live: https://global-appointments-tracker.onrender.com/  
+🔗 Code: https://github.com/bh-official/global-appointments-tracker
+
+---
+
+### 📚 BookVerse – Book Review Social Platform
+A social platform for book lovers to review books, create posts, follow users, and engage with the reading community.
+
+**Tech:** Next.js, React, PostgreSQL, Clerk, Tailwind CSS  
+🔗 Live: https://book-verse-three.vercel.app/  
+🔗 Code: https://github.com/bh-official/BookVerse
+
+---
+
+### 💬 TechThreads – Developer Discussion Forum
+Discussion forum for developers with posts, nested comments, categories, and community conversations.
+
+**Tech:** Next.js, React, PostgreSQL, Server Actions  
+🔗 Live: https://tech-threads-nu.vercel.app/  
+🔗 Code: https://github.com/bh-official/Tech-Threads
+
+---
+
+### 🔐 Secure User Authentication System
+Backend authentication system using JWT, bcrypt, MongoDB, protected routes, and Docker.
+
+**Tech:** Node.js, Express, MongoDB, JWT, Docker  
+🔗 Code: GitHub Repository
+
+---
+
+## 🎓 Education
+
+- Software Development Bootcamp – Tech Educators, UK
+- Master of Computer Applications (MCA)
+- Bachelor of Computer Applications (BCA)
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Practitioner Essentials
+- AWS Cloud Quest: Cloud Practitioner
+- AWS Cloud Quest: Solutions Architect
+- Career Essentials in GitHub Copilot
+- AI Pair Programming with GitHub Copilot
+- Level 2 Certificate in Understanding Coding
+- Level 2 Principles of Cyber Security
+
+---
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bhuvaneswari-babu-60b8772b6/
+- 🌐 Portfolio: Add your portfolio link here
+- 📧 Email: info.bhuvaneswari@gmail.com
+
+---
+
+Thanks for visiting my GitHub profile 🙂  
